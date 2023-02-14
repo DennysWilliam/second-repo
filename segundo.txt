@@ -2,4 +2,8 @@ boa noite- criado via interface do github
 
 
 
+<<<<<<< HEAD
 edicao do arquivo via vscode ---
+=======
+edicao do arquivo via vscode ?????????????
+>>>>>>> 6b1420442e2249a2c8919c94f118b36ed803a606
