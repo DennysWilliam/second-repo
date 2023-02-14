@@ -1,0 +1,24 @@
+[1mdiff --git a/segundo.txt b/segundo.txt[m
+[1mindex 5a6b880..9ab97ac 100644[m
+[1m--- a/segundo.txt[m
+[1m+++ b/segundo.txt[m
+[36m@@ -2,4 +2,16 @@[m [mboa noite- criado via interface do github[m
+ [m
+ [m
+ [m
+[31m-edicao do arquivo via vscode[m
+\ No newline at end of file[m
+[32m+[m[32medicao do arquivo via vscode[m
+[32m+[m
+[32m+[m[32mueueheuhhee[m
+[32m+[m[32muheuheuheuhe[m
+[32m+[m
+[32m+[m[32mueuheuheueu[m
+[32m+[m[32muheuheuheuhe[m
+[32m+[m
+[32m+[m
+[32m+[m[32mueuheuheuheueuhe[m
+[32m+[m[32meuheuheuheuhuhe[m
+[32m+[m[32me[m
+[32m+[m[32meuheuheuheuhuhe[m
+\ No newline at end of file[m
